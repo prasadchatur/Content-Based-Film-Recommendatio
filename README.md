@@ -1,0 +1,2 @@
+# Content-Based-Film-Recommendatio
+Developed a content-basedmovie recommendationsystem usingcosinesimilarity, processing5k+movies◦Engineeredfeature extractionpipeline, transforming5k+movie descriptions intorecommendation vectors◦Deployed usingStreamlitapp forreal-timepersonalized movie recommendations
